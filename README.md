@@ -50,3 +50,6 @@ This implementation uses the `pgmpy` library to demonstrate key steps:
 
     # Reference Paper
 **Reference Paper Link - https://www.mdpi.com/1099-4300/24/5/668** 
+
+   # View Presentation  
+**View Here / Download - https://github.com/aadibhaskaruni/Smart-Home-IoT-Network-Risk-Assessment-Using-Bayesian-Networks/raw/refs/heads/main/Smart-Home-IoT-Network-Risk-Assessment-Using-Bayesian-Networks.pptx**
